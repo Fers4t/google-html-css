@@ -1,0 +1,54 @@
+.ust-menu {
+	text-align: right;
+	font-family: arial,sans-serif;	
+	color: black;
+	font-size: 13px;
+	margin-top: 2%;
+}
+
+.ust-menu a {
+	padding-right: 16px;
+    padding-top: 5px;
+    display: inline-block;
+}
+
+.ust-menu a:link {
+	color:rgba(0,0,0,0.87);
+	font-size: 13px;
+	text-decoration:none;
+
+}
+.ust-menu a:visited {
+	color:rgba(0,0,0,0.87);
+	font-size: 13px;
+}
+
+.ust-menu a:hover {
+	color:rgba(0,0,0,0.87);
+	font-size: 13px;
+	text-decoration: underline;
+}
+
+.ust-menu a:active {
+	color:rgba(0,0,0,0.87);
+	font-size: 13px;
+}
+
+.ust-menu-ikonlar {
+	float: right;
+	display: inline-block;
+	margin-right:15px;
+
+}
+
+.ust-menu-ikonlar img {
+	padding-right: 16px;
+	width: 23px;
+	height: 23px;
+}
+
+.ust-menu-ikonlar img profil {
+	width: 25px;
+	height: 25px;
+}
+
